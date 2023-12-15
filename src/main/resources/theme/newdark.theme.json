@@ -3,5 +3,9 @@
   "author": "All Fine Software",
   "dark": true,
   "editorScheme": "/editor-scheme/new-dark.xml",
-  "ui": {}
+  "ui": {
+    "*": {
+      "background": "#1e1f22"
+    }
+  }
 }
