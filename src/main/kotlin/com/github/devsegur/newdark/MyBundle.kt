@@ -1,4 +1,4 @@
-package com.github.devsegur.newdark2
+package com.github.devsegur.newdark
 
 import com.intellij.DynamicBundle
 import org.jetbrains.annotations.NonNls

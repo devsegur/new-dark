@@ -1,4 +1,4 @@
-package com.github.devsegur.newdark2.toolWindow
+package com.github.devsegur.newdark.toolWindow
 
 import com.intellij.openapi.components.service
 import com.intellij.openapi.diagnostic.thisLogger
@@ -8,8 +8,8 @@ import com.intellij.openapi.wm.ToolWindowFactory
 import com.intellij.ui.components.JBLabel
 import com.intellij.ui.components.JBPanel
 import com.intellij.ui.content.ContentFactory
-import com.github.devsegur.newdark2.MyBundle
-import com.github.devsegur.newdark2.services.MyProjectService
+import com.github.devsegur.newdark.MyBundle
+import com.github.devsegur.newdark.services.MyProjectService
 import javax.swing.JButton
 
 

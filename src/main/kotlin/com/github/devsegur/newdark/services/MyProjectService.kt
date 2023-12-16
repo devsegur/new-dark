@@ -1,9 +1,9 @@
-package com.github.devsegur.newdark2.services
+package com.github.devsegur.newdark.services
 
 import com.intellij.openapi.components.Service
 import com.intellij.openapi.diagnostic.thisLogger
 import com.intellij.openapi.project.Project
-import com.github.devsegur.newdark2.MyBundle
+import com.github.devsegur.newdark.MyBundle
 
 @Service(Service.Level.PROJECT)
 class MyProjectService(project: Project) {

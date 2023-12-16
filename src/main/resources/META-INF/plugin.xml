@@ -28,11 +28,11 @@
     <resource-bundle>messages.MyBundle</resource-bundle>
 
     <extensions defaultExtensionNs="com.intellij">
-        <toolWindow factoryClass="com.github.devsegur.newdark2.toolWindow.MyToolWindowFactory" id="MyToolWindow"/>
+        <toolWindow factoryClass="com.github.devsegur.newdark.toolWindow.MyToolWindowFactory" id="MyToolWindow"/>
         <themeProvider id="new-dark-v2" path="/theme/newdark.theme.json"/>
     </extensions>
 
     <applicationListeners>
-        <listener class="com.github.devsegur.newdark2.listeners.MyApplicationActivationListener" topic="com.intellij.openapi.application.ApplicationActivationListener"/>
+        <listener class="com.github.devsegur.newdark.listeners.MyApplicationActivationListener" topic="com.intellij.openapi.application.ApplicationActivationListener"/>
     </applicationListeners>
 </idea-plugin>

@@ -1,4 +1,4 @@
-package com.github.devsegur.newdark2.listeners
+package com.github.devsegur.newdark.listeners
 
 import com.intellij.openapi.application.ApplicationActivationListener
 import com.intellij.openapi.diagnostic.thisLogger
