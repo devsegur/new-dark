@@ -61,8 +61,6 @@ jobs:
 
       # Publish the plugin to JetBrains Marketplace
       - name: Publish Plugin
-        with:
-          PUBLISH_TOKEN: ${{ secrets.PUBLISH_TOKEN }}
         env:
           PUBLISH_TOKEN: ${{ secrets.PUBLISH_TOKEN }}
           CERTIFICATE_CHAIN: ${{ secrets.CERTIFICATE_CHAIN }}
