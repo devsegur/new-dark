@@ -3,5 +3,10 @@
 # new-dark-2 Changelog
 
 ## [Unreleased]
-### Added
-- Initial scaffold created from [IntelliJ Platform Plugin Template](https://github.com/JetBrains/intellij-platform-plugin-template)
+
+## [1.0.5] - 2023-12-20
+
+**Full Changelog**: https://github.com/devsegur/new-dark/compare/1.0.4...1.0.5
+
+[Unreleased]: https://github.com/devsegur/new-dark/compare/v1.0.5...HEAD
+[1.0.5]: https://github.com/devsegur/new-dark/commits/v1.0.5
