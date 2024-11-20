@@ -1,7 +1,7 @@
 <!-- Plugin Configuration File. Read more: https://plugins.jetbrains.com/docs/intellij/plugin-configuration-file.html -->
 <idea-plugin>
     <id>new-dark</id>
-    <version>1.0.6</version>
+    <version>1.0.7</version>
 
     <!-- Public plugin name should be written in Title Case.
          Guidelines: https://plugins.jetbrains.com/docs/marketplace/plugin-overview-page.html#plugin-name -->
@@ -11,7 +11,7 @@
     <!-- A displayed Vendor name or Organization ID displayed on the Plugins Page. -->
     <vendor email="allfinesoftware@gmail.com" url="https://taplink.cc/allfine">All Fine Software</vendor>
 
-    <idea-version since-build="222" until-build="242.*"/>
+    <idea-version since-build="222" until-build="243.*"/>
 
     <description><![CDATA[
     The released theme using the new JetBrains Dark Mode Theme
