@@ -29,7 +29,7 @@ repositories {
 dependencies {
 //    implementation(libs.annotations)
     intellijPlatform{
-        intellijIdeaCommunity("2024.3")
+        intellijIdeaCommunity("2025.1")
         instrumentationTools()
         pluginVerifier()
         zipSigner()
